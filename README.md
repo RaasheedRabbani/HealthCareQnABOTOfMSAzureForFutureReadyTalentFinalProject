@@ -1,10 +1,11 @@
 ## Future Ready Talent Final Project
+
 ### Project Link(Azure Static Web app): https://victorious-mud-051036c10.1.azurestaticapps.net 
-### Github Link: 
+#### Github Link: https://raasheedrabbani.github.io/HealthCareQnABOTOfMSAzureForFutureReadyTalentFinalProject/
 ### Microsoft Azure Services Used:
 #### 1) Static Web App
 #### 2) QnA Maker
-## Project Title: Health Care Chatbox Using Microsoft Azure
+## Project Title: ``` Health Care Chatbox Using Microsoft Azure | QnA Maker | Static Web App ```
 ## Problem Statement:
 #### At websites there are many FAQs sections are available but they are not in organise manner, specifically in Health Care, We have many different type of Questions or variety of concepts. It is hard to find particular question and their answers.
 ## Project Description:
